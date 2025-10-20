@@ -1,0 +1,29 @@
+{
+    "name": "eierlauf_fertig_schwierig",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v7.1.31",
+        "tag": "v7.1.31",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/65d8c356b2b4bbd74137b6fc952d4449a7eae48d",
+        "target": "7.1.31",
+        "pxt": "11.4.16",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
